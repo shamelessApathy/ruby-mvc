@@ -1,0 +1,4 @@
+#./app/routes.yml
+"/" : "main#index"
+"/hello" : "main#hello"
+"/posts": "posts#index"
